@@ -1,0 +1,45 @@
+[
+    {
+        "nombre": "javon en polvo lavarropa",
+        "description": "5k",
+        "marca": "gota limpa",
+        "costo": 381 
+        
+    },
+    {
+        "nombre": "Suavizante de ropa",
+        "description": "2 Lts.",
+        "marca": "Gota Limpa",
+        "costo": 198
+    },
+    {
+        "nombre": "Jabon liquido lavarropas",
+        "description": "3 Lts.",
+        "marca": "Gota Limpa",
+        "costo": 280
+    },
+    {
+        "nombre": "Aromatizante de ambientes",
+        "description": "Fragancias a elección",
+        "marca": "Tango",
+        "costo": 465
+    },
+    {
+        "nombre": "Bolsa de residuos",
+        "description": "12 unidades 50x55.",
+        "marca": "Griselda",
+        "costo": 75
+    },
+    {
+        "nombre": "Lustramuebles",
+        "description": "Fragancias a elección",
+        "marca": "Griselda",
+        "costo": 169
+    },
+    {
+        "nombre": "Papel higiénico humedo",
+        "description": "toallitas humedas",
+        "marca": "Air Sun",
+        "costo": 169
+    }
+]
